@@ -1,0 +1,41 @@
+🏨 Flight Route Finder 🏨
+1. Find cheapest flight
+2. List all cities
+3. Exit
+Choose option: 1
+Enter departure city: Delhi
+Enter arrival city: Bangalore
+
+✈️ Cheapest Route Found ✈️
+──────────────────────────
+Total Cost: ₹5500
+Total Time: 160 minutes
+Flight Path:
+──────────────────────────
+• Delhi → Bangalore
+  SpiceJet (SG-401) | ₹5500 | 160 mins
+
+🏨 Flight Route Finder 🏨
+1. Find cheapest flight
+2. List all cities
+3. Exit
+Choose option: 2
+
+Available Cities:
+────────────────
+• Bangalore
+• Chennai
+• Delhi
+• Goa
+• Hyderabad
+• Kolkata
+• Mumbai
+• Pune
+
+🏨 Flight Route Finder 🏨
+1. Find cheapest flight
+2. List all cities
+3. Exit
+Choose option: 3
+
+Thank you for using our Flight System! ✈️
